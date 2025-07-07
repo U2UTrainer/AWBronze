@@ -1,1 +1,3 @@
 # AWBronze
+
+This is the bronze zone used to ingest raw data from the sources...
