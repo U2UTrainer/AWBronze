@@ -1,0 +1,14 @@
+[
+  {
+    "name": "sales",
+    "path": "/Files",
+    "target": {
+      "type": "AdlsGen2",
+      "adlsGen2": {
+        "connectionId": "699dbd75-9dad-46c8-addf-ac49490f902d",
+        "location": "https://jpfabriclandingzone.dfs.core.windows.net",
+        "subpath": "/sales"
+      }
+    }
+  }
+]
